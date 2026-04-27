@@ -1,0 +1,501 @@
+,Item Name,Category,Primary Ingredients,Origin/Context,Description
+0,Dal,Staple,"Lentils, Spices",Nepal,"A soup made of black, red, or yellow lentils, usually tempered with ghee and jimbu."
+1,Bhat,Staple,Steamed Rice,Nepal,"Plain boiled rice, the central component of the national dish."
+2,Tarkari,Staple,Vegetables,Nepal,"A general term for spiced vegetable curry, often served with dal and bhat."
+3,Dhido,Staple,Millet/Buckwheat flour,Pahari/Himalayan,"A thick, sugar-free porridge made by stirring flour into boiling water until semi-thick."
+4,Tsampa,Staple,Roasted Barley flour,Sherpa/Tibetan,"Wholesome, nutty flour often mixed with butter tea or milk to form a dough."
+5,Aato,Staple,Crushed Corn,Western Nepal,Coarsely ground corn boiled into a porridge-like consistency.
+6,Baji,Staple,Beaten Rice,Newari,Flattened rice flakes used as a staple in Newari feasts and snacks.
+7,Chiura,Staple,Beaten Rice,Nepal,"The Nepali term for beaten rice, widely used as a travel snack and in Samay Baji."
+8,Syabaji,Snack,Puffed Rice,Newari,Parched or puffed rice often included in ceremonial snack sets.
+9,Bhuja,Snack,Puffed Rice,Nepal,Common puffed rice used as a light snack or in chatpate.
+10,Murai,Snack,Puffed Rice,Nepal,"Another term for puffed rice, particularly used in the Terai region."
+11,Makai,Staple,Maize/Corn,Pahari,Corn is often roasted (poleko) or popped (khatte) as a primary cereal source.
+12,Kodo,Staple,Finger Millet,Pahari,"A resilient grain used for dhido, roti, and traditional fermentation."
+13,Phapar,Staple,Buckwheat,Himalayan,"A bitter, gluten-free grain used for pancakes (rikikur) and dhido."
+14,Jau,Staple,Barley,Himalayan,A high-altitude staple used for tsampa and traditional brews.
+15,Chhou,Staple,Naked Barley,Himalayan,A variety of barley adapted to the highest cultivated elevations.
+16,Taichin Rice,Staple,Local Rice,Newari,A specific variety of rice preferred by Newars for its texture and aroma.
+17,Anandi Rice,Staple,Sticky Rice,Tharu,A glutinous rice variety traditionally grown in the Terai for steaming.
+18,Chamre,Staple,Fried Rice,Rai/Limbu,"Rice fried with ghee and turmeric, often served during celebrations."
+19,Haja,Staple,Steamed Rice,Newari,A term for steamed rice in the Newari culinary tradition.
+20,Gophuki,Staple,Puffed Rice,Newari,A specific variety of puffed rice used in ritual offerings.
+21,Khichdi,Staple,Rice & Lentils,Nepal,"A soft, one-pot dish of rice and lentils, often used as comfort food."
+22,Jaaulo,Staple,Rice & Turmeric,Nepal,"A very soft, lightly spiced rice porridge used for children or the elderly."
+23,Dhakane,Staple,Sweetened Rice,Pahari,"Rice sautéed in ghee and sugar, then cooked to a thick consistency."
+24,Puwa,Staple,Rice Flour,Nepal,Coarsely ground rice fried in ghee and sugar; a traditional festive snack.
+25,Chamal ko Puwa,Staple,Rice Flour,Nepal,A variant of puwa made specifically from rice flour rather than grains.
+26,Sattu,Staple,Roasted Grain flour,Nepal,"A nutritious flour made from roasted gram, barley, or maize, eaten with water or milk."
+27,Makai Bhuja,Snack,Roasted Corn,Nepal,"Corn kernels roasted until crunchy, a staple rural lunch."
+28,Khatte,Snack,Roasted Rice,Pahari,Brown rice roasted until it pops; often eaten for breakfast with tea.
+29,Gahu,Staple,Wheat,Nepal,"Wheat is the second most important cereal, primarily used for roti and pitha."
+30,Maida,Staple,Refined Flour,Nepal,"Fine wheat flour used for making momos, puris, and various sweets."
+31,Ata,Staple,Whole Wheat flour,Nepal,Standard whole wheat flour used for daily rotis and chapatis.
+32,Besan,Staple,Gram Flour,Nepal,Chickpea flour used as a thickener and for making pakoras and baras.
+33,Rawa,Staple,Semolina,Nepal,"Used for making haluwa, laddus, and the Kumaoni-style singhal."
+34,Sabudana,Staple,Tapioca,Nepal,Used for making kheer during religious fasting (vrat).
+35,Kodo ko Roti,Bread,Millet flour,Pahari,"A dark, dense flatbread made from finger millet flour."
+36,Phapar ko Roti,Bread,Buckwheat flour,Pahari,"A slightly bitter, earthy flatbread common in the hills."
+37,Makai ko Roti,Bread,Maize flour,Pahari,"A hearty, crumbly flatbread made from cornmeal."
+38,Sel Roti,Bread/Sweet,Rice flour,Nepal,"A ring-shaped, deep-fried rice bread that is crispy and sweet."
+39,Sukkha Roti,Bread,Wheat flour,Nepal,"A simple, dry-roasted flatbread similar to a tortilla."
+40,Chapati,Bread,Wheat flour,Nepal,"A soft, thin wheat bread cooked on a tawa griddle."
+41,Puri,Bread,Wheat flour,Nepal,"A deep-fried, puffed-up wheat bread served with vegetable curry."
+42,Bara,Bread/Snack,Black Lentils,Newari,"A savory lentil pancake, often topped with meat or eggs."
+43,Wo,Bread/Snack,Lentil flour,Newari,"A Newari term for the lentil patty, a central part of ceremonial feasts."
+44,Chatamari,Bread/Snack,Rice flour,Newari,"Often called the ""Nepali Pizza,"" a thin rice crepe with various toppings."
+45,Babari,Bread,Rice flour,Pahari,"A traditional rice pancake, the ancestor of the modern sel roti."
+46,Dhungre Roti,Bread,Buckwheat,Himalayan,A thick buckwheat pancake served with a spicy timur dip.
+47,Tingmo,Bread,Wheat flour,Sherpa/Tibetan,"A soft, fluffy steamed bun without filling, used to scoop up stews."
+48,Kur,Bread,Wheat flour,Sherpa,"A flat, round Tibetan-style bread cooked in a frying pan."
+49,Gurung Bread,Bread,Wheat flour,Gurung,"A deep-fried, slightly sweet bread common in the Annapurna region."
+50,Singhal,Bread,Semolina,Kumaon/Nepal,A semolina-based variation of sel roti found in western Nepal.
+51,Fini Roti,Bread/Sweet,Wheat flour,Festive,"A multi-layered, flaky fried bread served during Tihar."
+52,Patre,Bread,Wheat flour,Festive,"A layered, crunchy fried bread prepared for major festivals."
+53,Gilo Roti,Bread,Rice/Wheat batter,Pahari,"A soft, moist pancake made from a liquid batter of rice and wheat."
+54,Daal Puri,Bread,Lentils & Flour,Terai,A paratha-like snack filled with spiced gram pulses.
+55,Malpuwa,Bread/Sweet,Flour & Milk,Nepal,Deep-fried sweet pancakes soaked in sugar syrup.
+56,Thakuwa,Bread/Sweet,Wheat flour,Terai,Cookies made from wheat flour and jaggery for the Chhath festival.
+57,Pitha,Bread/Sweet,Rice flour,Terai,A wide variety of steamed or fried rice-based snacks and sweets.
+58,Litti,Bread/Snack,Wheat & Gram,Eastern Terai,Roasted wheat balls stuffed with spiced sattu (gram flour).
+59,Kalai Roti,Bread,Black Gram,Rajbanshi,A lentil-based flatbread made from Urad dal flour.
+60,Rice Roti,Bread,Rice flour,Terai,"A simple flatbread made from rice flour, common in Madheshi culture."
+61,Phulaura,Snack,Lentil flour,Nepal,"Deep-fried balls of spiced lentil batter, served as an appetizer."
+62,Batuk,Snack,Black Lentils,Magar,"A ring-shaped, fried black lentil donut, essential to Magar rituals."
+63,Gwaramari,Snack,Wheat flour,Newari,"Deep-fried dough balls, a popular breakfast snack in Kathmandu."
+64,Jhaikhatte,Snack,Rice & Ghee,Pahari,A preparation where rice is mixed with hot ghee and raksi for warmth.
+65,Gundruk ko Jhol,Soup,Fermented greens,Pahari,"A tangy, spiced soup made from fermented and dried mustard/radish leaves."
+66,Sinki ko Jhol,Soup,Fermented radish,Pahari,"A soup made from fermented radish roots, similar in tanginess to gundruk."
+67,Alu Tama,Curry,"Potato, Bamboo",Newari/Pahari,"A sour and spicy curry made with bamboo shoots, potatoes, and black-eyed peas."
+68,Kwati,Soup,Nine beans,Newari,"A high-protein soup made from nine types of sprouted beans, eaten during Janai Purnima."
+69,Kerau ko Tarkari,Curry,Green Peas,Nepal,A spiced curry made from fresh or dried green peas.
+70,Alu Kauli,Curry,"Potato, Cauliflower",Nepal,A classic combination of potatoes and cauliflower sautéed with spices.
+71,Saag,Vegetable,Mustard Greens,Nepal,"Stir-fried green leafy vegetables, typically mustard or spinach."
+72,Palungo ko Saag,Vegetable,Spinach,Nepal,"Sautéed spinach, often cooked with a hint of garlic and mustard oil."
+73,Rayo ko Saag,Vegetable,Leaf Mustard,Nepal,"Pungent mustard greens, a common accompaniment to dal bhat."
+74,Bethu ko Saag,Vegetable,Lambsquarters,Rural Nepal,Foraged wild greens often cooked during the winter season.
+75,Niuro,Vegetable,Fiddlehead Ferns,Hill Region,"Edible fern shoots, a popular seasonal delicacy in the hills."
+76,Sipligan,Vegetable,Garlic Pear,Hill Region,"The flowers of the Sipligan tree, used in bitter and medicinal curries."
+77,Koiralo,Vegetable,Bauhinia flowers,Hill Region,White or pink flowers used to make tangy and colorful pickles and curries.
+78,Sishnu ko Saag,Soup/Veg,Stinging Nettle,Himalayan,"Young nettle shoots boiled into a thick, nutritious green soup."
+79,Karkalo,Vegetable,Taro Leaves,Nepal,Taro leaves and stalks used in various curries and pickles.
+80,Masyaura,Curry,Lentil nuggets,Nepal,"Sun-dried nuggets of black lentils and taro, used in winter curries."
+81,Simi ko Tarkari,Curry,Green Beans,Nepal,Spiced curry made from various types of local beans.
+82,Barela,Vegetable,Balsam Apple,Rural Nepal,A gourd-like vegetable often sautéed with spices.
+83,Iskush,Vegetable,Chayote Squash,Nepal,A common squash variety used in stews and stir-fries.
+84,Iskush ko Munta,Vegetable,Chayote Shoots,Nepal,"The tender vines of the chayote plant, cooked as a leafy green."
+85,Farsi,Vegetable,Pumpkin,Nepal,"Pumpkin curry, often sweet and savory, a common side dish."
+86,Farsi ko Munta,Vegetable,Pumpkin Shoots,Nepal,"Tender pumpkin vine shoots, highly prized for their texture."
+87,Ramtoriya,Vegetable,Okra,Nepal,Ladies' finger sautéed with onions and dry spices.
+88,Bhanta,Vegetable,Eggplant,Nepal,"Eggplant or brinjal, often roasted or curried."
+89,Chichindo,Vegetable,Snake Gourd,Terai,"Long, serpent-like gourd used in light, watery curries."
+90,Ghiraula,Vegetable,Sponge Gourd,Nepal,Spiced curry made from ridge or sponge gourd.
+91,Kubhindo,Vegetable,Ash Gourd,Nepal,Often used in traditional sweets or hearty vegetable soups.
+92,Kurilo,Vegetable,Asparagus,Nepal,"Wild or cultivated asparagus, used in luxury curries and soups."
+93,Pidaalu,Vegetable,Taro Root,Nepal,Starchy taro tubers used in curries and deep-fried snacks.
+94,Tarul,Vegetable,Yam,Nepal,"Various types of yams, especially consumed during Maghe Sankranti."
+95,Ban Tarul,Vegetable,Wild Yam,Chepang/Rural,"Foraged wild yams, an essential survival food for indigenous groups."
+96,Mula ko Tarkari,Curry,Radish,Nepal,"Spiced radish curry, often paired with legumes."
+97,Gante Moola,Vegetable,Turnip,Nepal,"Turnip greens and roots, used in hilly regional cooking."
+98,Cauliflower Greens,Vegetable,Kauli ko Saag,Nepal,"The leaves of the cauliflower plant, often discarded but used in rural diets."
+99,Bethe,Vegetable,Chenopodium,Nepal,A common wild herb used as a leafy green vegetable.
+100,Thotne,Vegetable,Smart Weed,Nepal,A sour wild plant used in pickles and medicinal preparations.
+101,Nigalo Tusha,Vegetable,Himalayan Bamboo,Himalayan,"Tender shoots of small Himalayan bamboo, used in curries."
+102,Barela,Vegetable,Balsam Apple,Rural Nepal,A bitter-tasting gourd variety used in traditional medicine and cooking.
+103,Barela,Vegetable,Balsam Apple,Rural Nepal,Small gourd used in seasonal curries.
+104,Chatel,Vegetable,Kantola,Nepal,"Spiny gourd, a seasonal vegetable found in the hills and plains."
+105,Lauka,Vegetable,Bottle Gourd,Nepal,"Bottle gourd, often cooked as a cooling curry in the summer."
+106,Parwar,Vegetable,Pointed Gourd,Terai,"A popular vegetable in the southern plains, often stuffed or fried."
+107,Tinda,Vegetable,Round Gourd,Terai,Small round gourd used in mild curries.
+108,Kerau ko Munta,Vegetable,Pea Shoots,Nepal,"Tender shoots of garden pea plants, a seasonal delicacy."
+109,Tori ko Saag,Vegetable,Mustard Greens,Nepal,Young mustard plants used as a pungent leafy green.
+110,Lunde ko Saag,Vegetable,Pigweed,Nepal,A wild amaranth variety used as a staple green in rural areas.
+111,Poi Saag,Vegetable,Malabar Spinach,Nepal,"Thick, succulent green leaves used in soups and curries."
+112,Methi ko Saag,Vegetable,Fenugreek leaves,Nepal,"Bitter fenugreek leaves, often sautéed with potatoes."
+113,Dundu ko Saag,Vegetable,Chinese Leek,Himalayan,A wild leek used to flavor soups and meat dishes.
+114,Chamsoor,Vegetable,Garden Cress,Nepal,A peppery leafy green often paired with spinach (palungo).
+115,Dhaniya,Condiment,Coriander,Nepal,Fresh cilantro leaves used for garnishing and in every chutney.
+116,Kari Pata,Condiment,Curry Leaves,Terai,Aromatic leaves used to temper dals and vegetable dishes.
+117,Tejpat,Condiment,Bay Leaf,Pahari,"Leaves of the cinnamon tree, used to add aroma to meat and rice."
+118,Jimbu,Condiment,Wild Allium,Himalayan,A dried Himalayan herb used for tempering lentils and soups.
+119,Timmure Alu,Snack,Potato & Timur,Thakali,"Potatoes sautéed with Sichuan pepper (timur), a signature Thakali dish."
+120,Chukauni,Salad,Yogurt & Potato,Palpa,"A creamy potato salad made with yogurt, turmeric, and mustard oil."
+121,Mula ko Achar,Pickle,Radish,Nepal,Fermented radish slices seasoned with mustard oil and turmeric.
+122,Golbheda Achar,Pickle,Tomato,Nepal,A spicy chutney made from roasted tomatoes and garlic.
+123,Lapsi Achar,Pickle,Hog Plum,Nepal,A sour and spicy pickle made from the native hog plum fruit.
+124,Akabare Achar,Pickle,Round Chili,Nepal,"Hottest chili pickle in Nepal, made from the Akabare/Dalle chili."
+125,Alu ko Achar,Pickle,Potato,Nepal,"Boiled potatoes mixed with ground sesame, lemon, and spices."
+126,Pudina Achar,Pickle,Mint,Nepal,"A fresh, emerald-green chutney of mint, garlic, and green chilies."
+127,Karela Achar,Pickle,Bitter Gourd,Nepal,Thinly sliced bitter gourd fried and mixed with sesame and lemon.
+128,Tite Karela,Vegetable,Bitter Gourd,Nepal,"Spiced bitter gourd curry, often eaten for its health benefits."
+129,Bhogate Sadheko,Salad,Pomelo,Nepal,"Pomelo segments mixed with yogurt, honey, and chili."
+130,Bhatmas Sadheko,Snack,Soybeans,Nepal,"Roasted soybeans mixed with onion, garlic, ginger, and chili."
+131,Alu Sandheko,Snack,Potato,Newari,Spicy potato salad mixed with roasted mustard oil and cumin.
+132,Chhop Achar,Pickle,Niger Seed,Rai/Limbu,A dry ground pickle made from niger seeds and chili.
+133,Tama,Pickle,Bamboo,Nepal,"Sour fermented bamboo shoots, a distinct Nepali flavor."
+134,Kinema Achar,Pickle,Fermented Soy,Limbu,"A bold, pungent pickle made from fermented soybeans."
+135,Lasun ko Achar,Pickle,Garlic,Nepal,Crunchy garlic cloves pickled in mustard oil and chili powder.
+136,Timur Lasun,Pickle,Sichuan/Garlic,Nepal,A powerful pickle combining the numbing timur and garlic.
+137,Mango Achar,Pickle,Green Mango,Nepal,Traditional summer pickle of green mangoes and fennel seeds.
+138,Pyaaz ko Achar,Pickle,Onion,Nepal,"Sliced onions marinated in vinegar, salt, and sugar."
+139,Chili Sesame,Pickle,Chili & Sesame,Nepal,A combination of toasted sesame and green chilies.
+140,Sidhara ko Jhol,Soup,Dried fish,Tharu,A soup made from sun-dried cakes of taro and fish.
+141,Kwati ko Jhol,Soup,Bean Broth,Nepal,"The rich, spiced liquid of the nine-bean soup."
+142,Phulaura,Snack,Black Lentils,Nepal,"Fried lentil balls, often served as a ritual appetizer."
+143,Batuk,Snack,Black Lentils,Magar,Traditional ring-shaped Magar lentil snack.
+144,Bara,Snack,Black Lentils,Newari,"Lentil pancake, sometimes called the ""Nepali pancake."""
+145,Masyaura Curry,Curry,Lentil Nuggets,Pahari,Reconstituted dried nuggets cooked with potato and spices.
+146,Gante Moola,Vegetable,Turnip,Pahari,"Local turnips, a common root vegetable in the hills."
+147,Mula ko Duku,Vegetable,Radish Shoots,Nepal,"Young radish leaves and stems, cooked as a green."
+148,Rayo ko Duku,Vegetable,Mustard Shoots,Nepal,The flowering shoots of the mustard plant.
+149,Sim Rayo,Vegetable,Watercress,Nepal,Wild watercress foraged from clean mountain streams.
+150,Choila,Meat,"Buffalo, Chili",Newari,Grilled or barbecued buffalo meat marinated in hot spices and mustard oil.
+151,Kachila,Meat,Raw Buffalo,Newari,"Marinated raw minced buffalo meat, a delicacy of the highest order."
+152,Sapu Mhicha,Meat,"Tripe, Marrow",Newari,Buffalo leaf tripe stuffed with bone marrow and deep-fried.
+153,Swan Puka,Meat,Stuffed Lungs,Newari,Goat or buffalo lungs filled with a spicy batter and fried.
+154,Me,Meat,Buffalo Tongue,Newari,"Boiled, sliced, and fried buffalo tongue, seasoned with spices."
+155,Pukala,Meat,Fried Intestines,Newari,"Fried meat intestines, including liver, heart, and kidney."
+156,Takha,Meat,Congealed Buff,Newari,"A jellied buffalo meat curry, served cold during festivals."
+157,Nyakhuna,Meat,Congealed Fish,Newari,"A spicy jellied fish soup, the seafood version of takha."
+158,Sanya-khuna,Meat,Jellied Fish,Newari,"A jello relish made from small fish soup, salty and spicy."
+159,Chohi,Meat,Steamed Blood,Newari,"Steamed buffalo blood, often spiced and served as a side."
+160,Janla,Meat,Marinated Skin,Newari,"Marinated diced raw meat with skin, served at specific feasts."
+161,Senlamu,Meat,Raw Liver,Newari,Raw ground buffalo liver seasoned with intense spices.
+162,Nhyapu,Meat,Fried Brains,Newari,"Buffalo brains boiled, sliced, and fried; a rare delicacy."
+163,Pangra,Meat,Gizzard,Newari,"Fried gizzards of chicken or buffalo, a common snack."
+164,Dayekala,Meat,Buffalo Curry,Newari,"A thick, rich buffalo meat curry served at feasts."
+165,Dugula,Meat,Goat Curry,Newari,A Newari-style goat meat curry with a distinct spice profile.
+166,Heynla,Meat,Duck Curry,Newari,"Duck meat cooked in a savory, aromatic gravy."
+167,Khayala,Meat,Chicken Curry,Newari,Traditional Newari chicken curry.
+168,Khasilā,Meat,Gelded Goat,Newari,Curry made from the meat of a gelded goat.
+169,Changrala,Meat,Mountain Goat,Newari,"Meat of the mountain goat, often leaner and gamier."
+170,Bandella,Meat,Wild Boar,Newari,"Wild boar meat, prized for its flavor and forest habitat."
+171,Nyā,Meat,Fish Curry,Newari,Generic term for fish curry in the Newari tradition.
+172,Sanya,Meat,Small Fish,Newari,"Small fried fish, often eaten as a crunchy snack."
+173,Kunya,Meat,Smoked Fish,Newari,"Fish that has been smoke-preserved, then curried."
+174,Nyapuka,Meat,Fried Fish,Newari,Fish pieces deep-fried and seasoned.
+175,Momochā,Snack,Minced Meat,Newari,"Small, bite-sized Newari meat dumplings."
+176,Chatamari,Bread,Rice flour,Newari,"Rice flour crepe topped with minced meat, eggs, or sugar."
+177,Bara / Wo,Bread,Lentil flour,Newari,"Fried lentil patty, the backbone of the Newari snack set."
+178,Khen Wo,Snack,Fried Egg,Newari,A fried egg often added as a topping to baras or chatamaris.
+179,Musyā,Snack,Soybeans,Newari,"Toasted soybeans, a common element in Samay Baji."
+180,Haku Musyā,Snack,Black Soybeans,Newari,Roasted black soybeans mixed with oil and salt.
+181,Palu,Snack,Ginger,Newari,"Diced raw ginger rhizomes, eaten for digestion."
+182,Labha,Vegetable,Garlic Greens,Newari,Chopped garlic greens mixed with spices.
+183,Keń,Soup,Lentils,Newari,A specific term for lentil soup in the Newari language.
+184,Buba kwā,Curry,Beans,Newari,A curry made of various local beans.
+185,Chhon kwā,Curry,Bamboo/Potato,Newari,A Newari version of the alu tama curry.
+186,Mee kwā,Curry,Fenugreek,Newari,A unique curry made primarily from fenugreek seeds.
+187,Pancha kwā,Curry,Five-veg,Newari,"A festive mixed curry of bamboo, potato, mushroom, radish, and peas."
+188,Paun kwā,Soup,Hog Plum,Newari,"A sour, tangy soup made from the Himalayan hog plum."
+189,Bullā,Soup,Rice Beer,Newari,A soup made using the dregs of rice beer and variety meats.
+190,Chhyāllā,Soup,Radish/Meat,Newari,A soup made of shredded pickled radish and diced offal.
+191,Ghalmal,Curry,Mixed,Newari,"A mixed curry of lentil cakes, greens, and leftover meats."
+192,Tukan:chā,Vegetable,Mustard,Newari,A specific variety of green leafy vegetables.
+193,Palācha,Vegetable,Green Veg,Newari,Local leafy greens prepared with Newari spices.
+194,Shākechā,Vegetable,Green Veg,Newari,Another variety of seasonal greens.
+195,Chōlechā,Vegetable,Green Veg,Newari,Local green vegetable dish.
+196,Wāunchā,Vegetable,Green Veg,Newari,General term for green vegetables in Newa cuisine.
+197,Chakuhi,Vegetable,Sweet Potato,Newari,"Boiled sweet potato, a common winter snack."
+198,Kaywu,Salad,Peas,Newari,Soaked field pea and garden pea salad.
+199,Lain,Salad,Radish,Newari,Sliced radish salad.
+200,Tusi,Salad,Cucumber,Newari,"Sliced cucumber salad, often spiced with chili."
+201,Laaie,Salad,Radish,Newari,"Sliced radish, used as a palate cleanser."
+202,Samaybaji,Platter,Various,Newari,The quintessential Newari ritual food set.
+203,Syābaji,Snack,Parched Rice,Newari,"Light, crispy parched rice flakes."
+204,Gophuki,Snack,Puffed Rice,Newari,Puffed rice used in ceremonial contexts.
+205,Chhusyā,Snack,Wheat,Newari,Parched wheat grains.
+206,Kani,Snack,Popcorn,Newari,"Corn popped in sand, a traditional snack."
+207,Jakimari,Snack,Rice flour,Newari,Traditional rice flour pancake.
+208,Gwaramari,Snack,Wheat dough,Newari,"""Round bread"" - deep-fried dough balls."
+209,Yomari,Sweet,Rice flour,Newari,Teardrop-shaped steamed cake filled with chaku or khuwa.
+210,Lakhamari,Sweet,Wheat flour,Newari,"Crunchy, intricate sweets made for weddings."
+211,Guulmari,Sweet,Wheat flour,Newari,Deep-fried flour and sugar loops.
+212,Mari,Sweet,Various,Newari,General term for Newari sweets and pastries.
+213,Marichari,Sweet,Various,Newari,Soft milk-based pastries.
+214,Fini Roti,Sweet,Wheat flour,Newari,"Multi-layered, flaky pastry."
+215,Anarsa,Sweet,Rice flour,Newari,Sugar-coated fried rice flour cookie.
+216,Ainthe-Mari,Sweet,Wheat flour,Newari,Decorative fried dough rings.
+217,Khajuri,Sweet,Wheat flour,Newari,"Hard, traditional cookies."
+218,Roowth,Sweet,Wheat flour,Newari,Deep-fried festive sweet.
+219,Nimki,Snack,Wheat flour,Newari,Savory diamond-shaped crackers.
+220,Lakshmimari,Sweet,Wheat flour,Newari,Sweet named after the goddess of wealth.
+221,Swaari,Bread,Wheat flour,Newari,"Soft, thin flatbread often served with Jeri."
+222,Malpha,Sweet,Wheat flour,Newari,Newari variant of the malpua pancake.
+223,Jeeri,Sweet,Wheat flour,Newari,Spiral-shaped syrup-filled loops.
+224,Baalbara,Sweet,Wheat flour,Newari,"Small, round sweet donuts."
+225,Rildok,Soup/Staple,Pounded Potatoes,Sherpa,"Boiled potatoes pounded into a sticky dough, formed into balls in soup."
+226,Rikikur,Snack,Grated Potatoes,Sherpa,Savory potato pancakes served with fermented yak butter or achaar.
+227,Shyakpa,Stew,"Meat, Noodles, Veg",Sherpa,"A hearty stew of meat, hand-pulled noodles, and local vegetables."
+228,Thukpa,Soup,"Noodles, Meat",Himalayan,"A traditional noodle soup with meat, vegetables, and aromatic spices."
+229,Tsampa,Staple,Roasted Barley,Himalayan,"Nutritious roasted barley flour, the core staple of the mountains."
+230,Po Cha,Beverage,"Tea, Butter, Salt",Himalayan,"Salty butter tea, an essential energy source in cold climates."
+231,Chhurpi (Hard),Snack,Buttermilk,Himalayan,"Hardened cheese made from yak milk, extremely durable and shelf-stable."
+232,Chhurpi (Soft),Vegetable,Buttermilk,Himalayan,"Soft fermented cheese used in stews, curries, and momo fillings."
+233,Tingmo,Bread,Wheat flour,Sherpa/Tibetan,"Steamed fluffy buns, also known as ""T Momo."""
+234,Shyaphale,Snack,Meat-filled bread,Himalayan,Deep-fried semi-circular dough filled with minced meat and spices.
+235,Khapse,Snack,"Wheat, Butter",Himalayan,Fried dough strips made for Lhosar (New Year) celebrations.
+236,Gyuma,Meat,Blood Sausage,Sherpa,Traditional blood sausage made from yak or sheep blood and spices.
+237,Phalgi,Bread,Buckwheat,Sherpa,A Sherpa-style buckwheat pancake.
+238,Rilduk,Soup,Potato balls,Himalayan,"A variant of rildok, the comforting pounded potato soup."
+239,Kur,Bread,Wheat flour,Sherpa,"Flat, pan-cooked bread, a staple breakfast item in teahouses."
+240,Somar,Vegetable,Yak milk,Sherpa,A rare yak-milk-based product used as a flavor balancer.
+241,Sherpa Momo,Snack,"Flour, Chhurpi",Sherpa,"Rustic dumplings filled with yak cheese, spinach, or meat."
+242,Thenduk,Soup,Pulled Noodles,Himalayan,"A variant of thukpa with square, hand-pulled noodles."
+243,Mokthuk,Soup,Momo & Soup,Himalayan,Momos served in a flavorful soup broth.
+244,Laping,Snack,Mung Bean flour,Tibetan,"Cold, spicy noodle dish flavored with soy, garlic, and chili oil."
+245,Su-Chya,Beverage,Butter Tea,Himalayan,Another name for the ubiquitous salty butter tea.
+246,Chhang,Beverage,Barley/Millet,Sherpa,"A milky, fermented beer made from barley, central to rituals."
+247,Nigar,Beverage,Fermented grain,Eastern Nepal,The first liquid extract from fermented grain beer.
+248,Tongba,Beverage,Finger Millet,Limbu/Himalayan,Fermented millet consumed by adding hot water and sipping with a straw.
+249,Marpha Brandy,Beverage,Apple,Mustang,A high-proof brandy made from the famous organic apples of Marpha.
+250,Yak Steak,Meat,Yak Meat,Himalayan,"Slabs of yak meat grilled or pan-seared, a modern trekker favorite."
+251,Yak Curry,Meat,Yak Meat,Himalayan,"Slow-cooked yak meat in a spicy, earthy gravy."
+252,Buckwheat Dhido,Staple,Buckwheat flour,Himalayan,Dense porridge made specifically from high-altitude buckwheat.
+253,Naked Barley Dhido,Staple,Barley flour,Himalayan,Dhido made from the indigenous naked barley of the mountains.
+254,Sishnu ko Jhol,Soup,Stinging Nettle,Himalayan,"A green, creamy soup made from wild-foraged nettles."
+255,Kodo ko Roti,Bread,Millet flour,Himalayan,"Flatbread made from finger millet, a staple for low-income families."
+256,Phapar ko Roti,Bread,Buckwheat flour,Himalayan,"Earthy buckwheat flatbread, rich in minerals and gluten-free."
+257,Aloo ko Tarkari,Curry,Potato,Himalayan,The most common vegetable side dish in the mountains.
+258,Ghee,Staple,Yak Butter,Himalayan,Clarified butter made from yak or hybrid cow milk.
+259,Salted Butter,Staple,Yak Butter,Himalayan,Traditional churned butter used in tea and cooking.
+260,Jhopa Meat,Meat,Hybrid Cow,Himalayan,"Meat from a yak-cow hybrid, consumed by specific castes."
+261,Chiru Meat,Meat,Tibetan Antelope,Himalayan,"Historically traded meat from Tibet, now rare and regulated."
+262,Bheda ko Masu,Meat,Sheep Meat,Himalayan,"Local sheep meat, a primary protein source in high altitudes."
+263,Chyangra Meat,Meat,Mountain Goat,Himalayan,"Meat from the high-altitude Chyangra goat, highly prized."
+264,Sukuti (Yak),Snack,Dried Yak Meat,Himalayan,Strips of yak meat dried over a wood fire for long-term storage.
+265,Kachhyamba,Snack,Buckwheat,Thakali,"Buckwheat finger chips, a popular traditional appetizer."
+266,Phopke,Sweet,Fermented Rice,Thakali,"A unique fermented rice dish, often served over chhurpi and ghee."
+267,Timmure Alu,Vegetable,Potato & Timur,Thakali,Signature potato fry seasoned with wild Sichuan pepper.
+268,Thakali Set,Staple,"Rice, Lentils, Veg",Thakali,A refined version of dal bhat with melted ghee and multiple pickles.
+269,Dhungre Roti,Bread,Buckwheat,Himalayan,Buckwheat pancake often served in Mustang and Rolwaling.
+270,Khin,Staple,Local grain,Langtang,A traditional cereal-based dish of the Langtang region.
+271,Sishnu Soup,Soup,Nettle,Langtang,High-nutrition nettle soup common in Central Nepal's highlands.
+272,Buckwheat Pancake,Bread,Buckwheat flour,Himalayan,"Light, earthy pancakes eaten for breakfast by trekkers."
+273,Finger Millet Dhido,Staple,Millet,Upper Mustang,Dense porridge made from millet in the Mustang region.
+274,Apple Pie,Sweet,Apple,Jomsom/Manang,A modern adaptation using the abundant local mountain apples.
+275,Wild Mushroom Soup,Soup,Wild Mushrooms,Himalayan,"Foraged mushroom soup, common after the monsoon season."
+276,Jhaikhatte,Beverage,Raksi & Ghee,Rural Hills,A warming ritual drink where grains and ghee are added to raksi.
+277,Dejyang,Beverage,Alcohol,Sherpa,Alcohol gifted to new mothers in the Sherpa community.
+278,Chhongjyang,Beverage,Alcohol,Sherpa,Alcohol used during business settlements in the mountains.
+279,Kodo ko Raksi,Beverage,Millet Liquor,Nepal,Strong distilled spirit made from fermented finger millet.
+280,Chaamal ko Kheer,Sweet,Rice Pudding,Nepal,Traditional rice pudding made with local varieties and yak milk.
+281,Makai ko Kheer,Sweet,Corn Pudding,Nepal,A unique pudding made from fresh corn kernels.
+282,Sabudaanaa Kheer,Sweet,Tapioca,Nepal,"Tapioca pearl pudding, popular during religious fasts."
+283,Sebai ko Kheer,Sweet,Vermicelli,Nepal,Sweet milk pudding with thin vermicelli noodles.
+284,Machha Tarkari,Curry,River Fish,Majhi/Bhote,Freshwater fish curry cooked with mustard oil and turmeric.
+285,Thenthuk,Soup,Pulled Noodles,Hyolmo,A slow-cooked bone broth with hand-pulled wheat noodles.
+286,Tsampa Porridge,Staple,Barley,Himalayan,A warm breakfast porridge made from tsampa flour and milk.
+287,Sherpa Bread,Bread,Wheat,Sherpa,Deep-fried or pan-cooked bread common on the EBC route.
+288,Potato Roti,Bread,Potato,Sherpa,Flatbread made from mashed potatoes and wheat flour.
+289,Salt Butter,Condiment,Yak Butter,Sherpa,"Fresh yak butter mixed with salt, used to garnish dhido and rice."
+290,Hard Chhurpi,Snack,Cheese,Sherpa,"Smoked and dried cheese, used for tooth health and energy."
+291,Soft Chhurpi,Vegetable,Cheese,Sherpa,Freshly made cheese used as a meat substitute in curries.
+292,Syakpa Soup,Soup,Stew,Sherpa,The rich broth of the hand-pulled noodle and meat stew.
+293,Jho (Jhopa),Staple,Hybrid Milk,Sherpa,Milk and curds from the yak-cow hybrid.
+294,Tibetan Bread,Bread,Wheat,Himalayan,"Deep-fried, puffy bread often eaten with honey or jam."
+295,Apple Crumble,Sweet,Apple,Jomsom,A baked dessert using local Mustang apples.
+296,Yak Cheese,Snack,Cheese,Annapurna/Manaslu,"Aged, dense cheese made from yak milk, highly nutritious."
+297,Chapati,Bread,Wheat,Himalayan,The flatbread served with lentils in teahouses across the trail.
+298,Finger Millet Roti,Bread,Millet,Mustang,Traditional millet flatbread of the Mustang plateau.
+299,Po Cha,Beverage,Tea,Himalayan,The iconic butter tea of the high mountains.
+300,Ghonghi,Aquatic,Mud Snails,Tharu,"Snails boiled with linseed soup and local spices, eaten by sucking."
+301,Dhikri,Staple,Rice Flour,Tharu,"Steamed rice flour rolls or dumplings, a staple of the Maghi festival."
+302,Bagiya,Snack,Rice Flour,Tharu,"Steamed rice flour dumplings, often filled with sweet or savory mixtures."
+303,Bhakkha,Bread,Rice Flour,Tharu/Rajbanshi,"A fluffy, steamed rice cake served with tomato chutney."
+304,Sidhara,Condiment,Fish & Taro,Tharu,"Dried cakes made of small fish and taro root, used in curries."
+305,Khariya,Snack,Colocasia leaves,Tharu,Steamed and fried rolls made of colocasia leaves and spice batter.
+306,Pitosni,Snack,Colocasia leaves,Tharu,Another term for the Tharu colocasia leaf specialty.
+307,Kachari Bariya,Vegetable,Yam,Tharu,A flavorful dish made from kachar (yam) and seasonal vegetables.
+308,Pakuwa,Meat,Pork/Boar,Tharu,"Barbecued or roasted meat, typically pork or wild boar."
+309,Anandi Rice,Staple,Sticky Rice,Tharu,"Steam-cooked glutinous rice, known for its unique texture."
+310,Chichar,Staple,Sticky Rice,Tharu,Sticky rice steamed in a traditional manner.
+311,Parewak Sikar,Meat,Pigeon,Tharu,Traditional Tharu preparation of roasted or curried pigeon meat.
+312,Machha Curry,Curry,River Fish,Terai,"Freshwater fish cooked with turmeric, garlic, and mustard oil."
+313,Litti,Snack,Wheat & Sattu,Terai,Roasted wheat balls stuffed with spiced gram flour and ghee.
+314,Pitha,Sweet/Snack,Rice flour,Terai,"A wide category of rice-based sweets, steamed or fried."
+315,Thekuwa,Sweet,Wheat & Jaggery,Mithila/Bhojpuri,A deep-fried sweet made for the Chhath festival.
+316,Katiya,Curry,Mutton,Terai,Mutton slow-cooked in a sealed clay pot (katiya) over coal.
+317,Pitthi,Snack,Wheat dough,Madhesi,Small dough dumplings cooked in a seasoned broth.
+318,Dal Pitthi,Snack,Wheat & Lentils,Madhesi,Wheat dough pieces cooked inside a spiced lentil soup.
+319,Chhachharuwa,Snack,Traditional,Madhesi,A traditional snack item of the southern plains.
+320,Dal Puri,Bread,Flour & Lentils,Madhesi,Deep-fried bread filled with a spiced chickpea or lentil paste.
+321,Khajuriya,Sweet,Wheat flour,Terai,Cookie-like festive sweet fried in oil.
+322,Maluwa,Sweet,Flour & Milk,Terai,"A soft, pancake-like sweet soaked in sugar syrup."
+323,Padukiya,Sweet,Wheat flour,Terai,"A fried, semi-circular sweet with a coconut or khuwa filling."
+324,Puwa,Sweet,Rice flour,Terai,A sweet dish made from sautéed rice flour and nuts.
+325,Dudh Puwa,Sweet,Milk & Rice,Terai,Puwa cooked in thick milk to create a rich dessert.
+326,Sohjan Chokha,Vegetable,Drumstick,Terai,A mash or salad made from boiled drumstick (moringa) pods.
+327,Maslaar,Curry,Spiced,Terai,A term for a highly spiced curry in the Madheshi tradition.
+328,Jhinga Fry,Aquatic,Prawns/Shrimp,Terai,River prawns deep-fried with local spices.
+329,Siddhri,Aquatic,Small Fish,Terai,"Dried small fish, often used in chutneys or curries."
+330,Rice Roti,Bread,Rice flour,Terai,Traditional flatbread made exclusively from rice flour.
+331,Chiura Dahi,Staple,Rice & Curd,Terai,A staple combination of beaten rice and fresh yogurt.
+332,Bari,Snack,Lentil Nuggets,Terai,Sun-dried nuggets of seasoned lentil paste.
+333,Kari,Curry,Yogurt,Terai,"A thick, tangy curry made with yogurt and gram flour."
+334,Taruwa,Snack,Veg Fritters,Terai,Sliced vegetables dipped in gram flour batter and deep-fried.
+335,Launglatti,Sweet,Wheat flour,Terai,"A fried, syrup-soaked sweet pinned with a clove (laung)."
+336,Gajjaa,Sweet,Wheat flour,Terai,"A hard, layered sweet common in the Madhesi region."
+337,Khuwa,Sweet,Milk solids,Nepal,"Milk reduced to a thick solid, used in many sweets."
+338,Khaja Mithai,Sweet,Flour,Terai,General term for various snack-like sweets sold in the plains.
+339,Methauri,Snack,Fenugreek,Terai,Sun-dried nuggets made with fenugreek seeds and lentils.
+340,Tilauri,Snack,Sesame,Terai,"Small, crunchy fried snacks made from sesame seeds and batter."
+341,Danauri,Snack,Grains,Terai,A traditional snack made from various grains.
+342,Bathuwa Saag,Vegetable,Wild Spinach,Terai,A famous wild green consumed specifically during the winter.
+343,Ol ke Tarkari,Curry,Elephant Foot Yam,Terai,A curry made from the large elephent foot yam tuber.
+344,Pumpkin Leaf Taruwa,Snack,Pumpkin leaves,Terai,Pumpkin leaves dipped in batter and fried until crispy.
+345,Satuwa,Staple,Grain flour,Terai,"Roasted grain flour, a high-protein staple for farmers."
+346,Makai Bhuja,Snack,Popcorn,Terai,"Toasted corn kernels, a common daily snack."
+347,Khurma,Sweet,Wheat flour,Terai,Fried wheat flour sticks coated in sugar syrup.
+348,Fofi,Snack,Flour,Terai,"A hollow, tube-shaped fried snack."
+349,Bangla Daal,Soup,Chickpeas,Terai,A yellow lentil soup made from split chickpeas.
+350,Khesari Saag,Vegetable,Khesari,Terai,A leafy green vegetable common in the plains.
+351,Teesi,Snack,Flaxseed,Terai,Flaxseeds used in various traditional snacks and condiments.
+352,Gahu Oraha,Snack,Wheat,Terai,Roasted wheat grains.
+353,Dhan Lawa,Snack,Paddy,Terai,"Puffed paddy or rice, often used in religious rituals."
+354,Aluwa,Staple,Potato,Terai,A regional potato dish.
+355,Shidol,Condiment,Fermented Fish,Rajbanshi,A pungent condiment made of fermented fish and arum leaves.
+356,Pelka,Soup,Green leafy,Rajbanshi,A traditional soup made of mixed greens and alkali (chhaka).
+357,Shuktani,Curry,Traditional,Rajbanshi,A bitter-tasting traditional vegetable preparation.
+358,Chheka,Soup,Alkali,Rajbanshi,A unique soup prepared with alkaline water and local herbs.
+359,Bhelka,Soup,Vegetable,Rajbanshi,A light vegetable broth of the Rajbanshi community.
+360,Panta Bhat,Staple,Fermented Rice,Rajbanshi,"Leftover rice soaked overnight, eaten with salt and onion."
+361,Sukati,Vegetable,Dried Jute,Rajbanshi,Dried jute leaves used in traditional curries.
+362,Kalai Roti,Bread,Black Gram,Rajbanshi,A flatbread made from urad dal flour.
+363,Borolir Jhaal,Curry,Fish,Rajbanshi,Spicy fish curry using the prized Boroli fish.
+364,Nelekata Pitha,Sweet,Rice & Coconut,Rajbanshi,Half-moon shaped pitha filled with coconut and sugar.
+365,Fokdoi,Staple,Rice,Rajbanshi,A traditional rice-based meal.
+366,Pata Khaoa,Snack,Arum leaves,Rajbanshi,Arum leaves grilled or burnt with spices inside banana leaves.
+367,Seli,Staple,Rice,Dhimal,A traditional rice preparation of the Dhimal community.
+368,Lawa,Snack,Puffed paddy,Dhimal,Puffed paddy used as a snack.
+369,Sidla,Condiment,Fish,Dhimal,A traditional fermented fish dish of the Dhimal people.
+370,Gora,Beverage,Rice Beer,Dhimal,Traditional homemade rice liquor.
+371,Taas,Meat,Buffalo/Lamb,Chitwan,"Spiced, slow-cooked meat served with puffed rice and pickles."
+372,Katiya,Curry,Mutton,Terai,Mutton slow-cooked in individual clay pots.
+373,Sahjan Chokha,Vegetable,Moringa,Terai,Mashed drumstick pods with spices and mustard oil.
+374,Akabare Vinegar,Pickle,Round Chili,Eastern Nepal,Dalle chilies preserved in vinegar and spices.
+375,Kinema,Fermented,Soybeans,Rai/Limbu,"Soybeans fermented until pungent, then dried and stored for curries."
+376,Kinema ko Jhol,Soup,Fermented Soy,Rai/Limbu,"A nutritious, high-protein soup made from reconstituted kinema."
+377,Yangben-Faaksa,Curry,Pork & Lichen,Rai/Limbu,Pork curry cooked with wild edible lichen (yangben) and blood.
+378,Wachipa,Staple,Chicken & Ash,Rai/Limbu,Rice mixed with chicken and ashes of burnt feathers; bitter and aromatic.
+379,Sargemba,Meat,Blood Sausage,Rai/Limbu,"Pig blood, rice, and lichen encased in intestines and boiled."
+380,Chhop Achar,Pickle,Niger Seeds,Rai/Limbu,"A dry, shelf-stable pickle made from ground niger seeds and salt."
+381,Chamre,Staple,Rice,Rai/Limbu,"Rice fried with ghee and turmeric to produce a yellow, aromatic dish."
+382,Masikra,Meat,Smoked Meat,Limbu,"Smoked or dried meat, often pork, used in seasonal stews."
+383,Tongba,Beverage,Millet,Limbu,"Fermented millet brew, sipped through a bamboo straw."
+384,Raksi,Beverage,Grain,Nepal,"Distilled grain liquor, the ""hard"" counterpart to fermented brews."
+385,Masikdaam,Staple,Grains,Rai/Limbu,A traditional cereal-based dish of eastern Nepal.
+386,Sibring,Vegetable,Wild Herb,Rai/Limbu,An indigenous wild plant used as a vegetable or condiment.
+387,Bawari,Bread,Rice flour,Rai/Limbu,A traditional rice flour pancake.
+388,Dhule Achar,Pickle,Sesame & Ginger,Rai/Limbu,"A ground pickle of sesame seeds, ginger, salt, and chili."
+389,Saruwa,Beverage,Traditional,Rai/Limbu,A specific traditional drink of the Lohorung community.
+390,Yangben,Condiment,Lichen,Rai/Limbu,Wild lichen processed with ashes and washed thoroughly for use.
+391,Sungur ko Masu,Meat,Pork,Rai/Limbu,"Local domestic pork, the preferred meat of eastern hills."
+392,Philinge Achar,Pickle,Niger Seed,Rai/Limbu,"A spicy, nutty pickle made from niger seeds (philinge)."
+393,Kodo ko Raksi,Beverage,Millet,Nepal,Strong spirit distilled from fermented finger millet.
+394,Sel Roti,Sweet,Rice flour,Nepal,Ring-shaped festive bread made of fermented rice batter.
+395,Gundruk ko Achar,Pickle,Fermented greens,Nepal,Spiced salad made from fermented leafy greens.
+396,Dhido,Staple,Millet/Buckwheat,Rai/Limbu,Dense flour porridge served with meat curry.
+397,Machha ko Sukuti,Snack,Dried Fish,Rai/Limbu,"Small fish dried until crunchy, then fried with spices."
+398,Ghee,Staple,Buffalo Butter,Nepal,Clarified butter used as a caloric boost in every meal.
+399,Chhurpi,Snack,Yak/Cow Milk,Eastern Nepal,Dried cheese bits used as a snack or in soup.
+400,Phopke,Sweet,Fermented Rice,Thakali/Eastern,A unique sweet fermented rice specialty.
+401,Chirik Michcha,Pickle,Fermented Chili,Yakkha,"Bold, pungent fermented green chili dish of eastern Nepal."
+402,Ban Tarul,Vegetable,Wild Yam,Chepang/Rural,Foraged yam roasted or boiled as a forest survival food.
+403,Machha Tarkari,Curry,River Fish,Majhi/Bhote,Spiced fish curry from river-based communities.
+404,Thenthuk,Soup,Wheat Noodles,Hyolmo,Square hand-pulled noodles in a slow-cooked bone broth.
+405,Paach Pokhari Jhol,Soup,Meat Broth,Gurung,A warming meat broth made with wild herbs and garlic.
+406,Tsampa,Staple,Barley,Sherpa,Roasted barley flour mixed with butter tea.
+407,Aila,Beverage,Rice/Millet,Newari,Potent distilled spirit with over 60% alcohol content.
+408,Chhyang,Beverage,Rice/Barley,Tibetan,"Milky white fermented beer, sweet and sour."
+409,Juju Dhau,Sweet,Buffalo Milk,Bhaktapur,"""King of Yogurt,"" thick and creamy fermented milk."
+410,Yomari,Sweet,Rice flour,Newari,Steamed harvest dumplings filled with chaku or khuwa.
+411,Lakhamari,Sweet,Wheat flour,Newari,"Hard, crunchy bread-like treat for special occasions."
+412,Chaku,Sweet,Molasses,Newari,"Sticky, energy-dense molasses rich in iron."
+413,Jeri,Sweet,Wheat flour,Nepal,Deep-fried spirals soaked in sugar syrup.
+414,Gud Pak,Sweet,Milk & Jaggery,Kathmandu,Nutritious sweet gifted to new mothers for strength.
+415,Kheer,Sweet,Rice & Milk,Nepal,Traditional creamy rice pudding.
+416,Suji Ko Halwa,Sweet,Semolina,Nepal,Buttery semolina pudding flavored with cardamom.
+417,Rakshi,Beverage,Grain,Nepal,"Traditional distilled wine, clear and strong."
+418,Taadi,Beverage,Palm Sap,Terai,Alcoholic palm wine made from the sap of palm trees.
+419,Tin Pani,Beverage,Grain,Rural Nepal,"""Three water"" - highly distilled, clear raksi."
+420,Jaad,Beverage,Grain,Nepal,Generic term for fermented grain beer.
+421,Nigar,Beverage,Grain,Eastern Nepal,The clear liquid extract from fermented beer.
+422,Thwon,Beverage,Rice,Newari,Newari name for fermented rice beer.
+423,Mada,Beverage,Grain,Rukum,Distilled spirit found in the hilly regions of Rukum.
+424,Saejongwa,Beverage,Grain,Limbu,Limbu name for distilled alcohol (raksi).
+425,Sel Roti,Sweet/Snack,Rice flour,Nepal,"Ring-shaped rice donut, crispy outside and soft inside."
+426,Yomari,Sweet,Rice flour,Newari,Fish or teardrop shaped dumpling filled with sesame and molasses.
+427,Lakhamari,Sweet,Wheat flour,Newari,"A hard, crunchy decorative sweet for weddings."
+428,Kheer,Sweet,Rice & Milk,Nepal,"Traditional rice pudding, often garnished with nuts and saffron."
+429,Rasbari,Sweet,Milk solids,Nepal,Spongy milk balls dipped in a light sugar syrup.
+430,Lal Mohan,Sweet,Milk solids,Nepal,Deep-fried dough balls in a cardamom-infused syrup.
+431,Gulab Jamun,Sweet,Milk solids,Nepal,The regional name for the deep-fried syrup-soaked milk balls.
+432,Jeri,Sweet,Wheat flour,Nepal,Pretzels made of fried batter and soaked in syrup.
+433,Jalebi,Sweet,Wheat flour,Nepal,"Another name for Jeri, often paired with swari flatbread."
+434,Rasgulla,Sweet,Cottage Cheese,Nepal,Spongy balls of chhena (cheese) in sugar syrup.
+435,Rasmalai,Sweet,Cheese & Milk,Nepal,"Soft cheese patties soaked in thickened, sweetened milk."
+436,Barfi,Sweet,Condensed Milk,Nepal,"Dense, fudge-like sweet available in many flavors (Khuwa, Kaaju)."
+437,Peda,Sweet,Reduced Milk,Nepal,"Flat, circular sweets made from thickened milk and nuts."
+438,Laddu,Sweet,Flour & Sugar,Nepal,Spherical sweets made from gram flour (Besan) or semolina.
+439,Motichur Laddu,Sweet,Chickpea flour,Nepal,Granular sweets made from tiny fried droplets of batter.
+440,Til ko Laddu,Sweet,Sesame seeds,Nepal,Crunchy sesame balls bound with jaggery syrup.
+441,Gud Pak,Sweet,Jaggery & Nuts,Kathmandu,"A nutritious, thick sweet made from edible gum and nuts."
+442,Pustakari,Sweet,Milk & Sugar,Newari,"Chewy, nutty candy made from reduced milk and jaggery."
+443,Chaku,Sweet,Sugarcane juice,Newari,"Dark, concentrated molasses blocks used as a winter tonic."
+444,Anarsa,Sweet,Rice flour,Nepal,A crispy rice flour patty topped with poppy seeds.
+445,Khajuri,Sweet,Wheat & Ghee,Nepal,Traditional deep-fried cookies with a firm texture.
+446,Haluwa,Sweet,Semolina,Nepal,"A warm, buttery pudding made from semolina or wheat flour."
+447,Gajar ko Halwa,Sweet,Carrots,Nepal,Grated carrots cooked in milk and ghee until thick and sweet.
+448,Suji ko Halwa,Sweet,Semolina,Nepal,The most common homemade dessert in Nepali households.
+449,Kalakand,Sweet,Milk & Paneer,Nepal,"A grainy, milk-based sweet flavored with cardamom."
+450,Kulfi,Sweet,Thickened Milk,Nepal,"Traditional frozen milk popsicle, often with pistachios."
+451,Bambaisan,Sweet,Milk,Ilam,A regional specialty from Ilam made from condensed milk.
+452,Khuwa ko Barfi,Sweet,Reduced milk,Nepal,"Pure milk fudge, a favorite for its creamy richness."
+453,Kaaju Barfi,Sweet,Cashews,Nepal,Diamond-shaped fudge made from ground cashews.
+454,Badaam Barfi,Sweet,Almonds,Nepal,Milk fudge enriched with almonds.
+455,Pista Barfi,Sweet,Pistachios,Nepal,Vibrant green fudge flavored with pistachios.
+456,Nariwal Barfi,Sweet,Coconut,Nepal,Sweet squares made from grated coconut and milk.
+457,Besan ko Barfi,Sweet,Gram flour,Nepal,Fudge made from roasted chickpea flour and ghee.
+458,Chocolate Barfi,Sweet,Milk & Cocoa,Nepal,A modern fusion of traditional milk fudge and chocolate.
+459,Kesari ko Barfi,Sweet,Saffron,Nepal,Saffron-infused milk fudge.
+460,Mana Bhog,Sweet,Wheat flour,Nepal,A ceremonial wheat pudding prepared for pujas.
+461,Makai ko Kheer,Sweet,Fresh Corn,Rural Nepal,An unusual rice pudding variant using fresh corn kernels.
+462,Makhanaa Kheer,Sweet,Lotus seeds,Nepal,Pudding made from puffed lotus seeds (makhana).
+463,Sabudaanaa Kheer,Sweet,Tapioca,Nepal,"Tapioca pearl pudding, a staple during fasting."
+464,Sebai ko Kheer,Sweet,Vermicelli,Nepal,"Vermicelli noodles cooked in sweet, spiced milk."
+465,Baalushahi,Sweet,Wheat flour,Nepal,"A glazed, flaky pastry with a soft interior."
+466,Kaalo Jaamun,Sweet,Milk solids,Nepal,"A darker, more fried version of the Lal Mohan ball."
+467,Malpua,Sweet,Flour & Fennel,Nepal,Small fritters seasoned with fennel and soaked in syrup.
+468,Jilfi,Sweet,Flour,Nepal,Another name for the syrup-filled loops of Jeri.
+469,Moong ko Laddu,Sweet,Mung Bean,Nepal,Sweet balls made from nutritious mung bean flour.
+470,Nariwal ko Laddu,Sweet,Coconut,Nepal,Spheres made of sweet coconut and condensed milk.
+471,Sooji ko Laddu,Sweet,Semolina,Nepal,Semolina balls with nuts and cardamom.
+472,Masalaa ko Laddu,Sweet,Dried fruits,Nepal,High-nutrition balls made of nuts and various spices.
+473,Momo (Steamed),Snack,Flour & Meat,Nepal,"The classic Nepali dumpling, steamed to perfection."
+474,Momo (Fried),Snack,Flour & Meat,Nepal,Crispy deep-fried dumplings.
+475,Jhol Momo,Snack,Flour & Meat,Nepal,"Dumplings served in a spicy, liquid broth of tomato and sesame."
+476,Kothey Momo,Snack,Flour & Meat,Nepal,"Pan-fried momos with a smoky, charred finish on one side."
+477,C-Momo,Snack,Flour & Meat,Nepal,"""Chili Momo"" - sautéed with onions, bell peppers, and hot sauce."
+478,Chowmein,Snack,Noodles,Nepal,"Stir-fried noodles with meat, vegetables, and soy sauce."
+479,Panipuri,Snack,Flour & Water,Nepal,"Hollow balls filled with potato, chickpeas, and tangy water."
+480,Chatpatey,Snack,Puffed Rice,Nepal,"A mixture of puffed rice, instant noodles, onion, and chili."
+481,Samosa,Snack,Wheat & Potato,Nepal,Spiced potato-filled triangular pastries.
+482,Samosa Chat,Snack,Samosa & Peas,Nepal,"Smashed samosa topped with pea curry, yogurt, and chutney."
+483,Alu Chop,Snack,Potato,Nepal,Deep-fried potato cutlets dipped in a gram flour batter.
+484,Sekuwa (Chicken),Snack,Meat,Nepal,Grilled marinated chicken skewers cooked over wood fire.
+485,Sekuwa (Buff),Snack,Meat,Nepal,"Grilled buffalo skewers, a Newari street favorite."
+486,Sekuwa (Pork),Snack,Meat,Nepal,Spiced pork skewers roasted over coals.
+487,Laphing,Snack,Mung Bean,Tibetan/Urban,"Cold, spicy bean noodles with chili oil and garlic."
+488,Wai Wai Sadeko,Snack,Noodles,Nepal,"Salad of crushed instant noodles, onion, and lemon."
+489,Jhilinga,Snack,Rice flour,Nepal,"Crunchy, colorful rice flour noodles shaped into a disc."
+490,Doughnuts (Plain),Snack,Wheat flour,Nepal,"Simple deep-fried dough rings, a common breakfast item."
+491,Pau Bhaji,Snack,Veg & Bread,Urban Nepal,Spiced vegetable mash served with buttered bread rolls.
+492,Korean Corn Dog,Snack,Flour & Cheese,Urban Nepal,A modern street-food trend of fried cheese and sausage.
+493,Bubble Tea,Beverage,Tea & Tapioca,Urban Nepal,A trendy drink with chewy tapioca pearls.
+494,Lassi (Sweet),Beverage,Yogurt,Nepal,Sweetened yogurt drink topped with nuts and khuwa.
+495,Lassi (Salted),Beverage,Yogurt,Nepal,Cooling yogurt drink with salt and cumin.
+496,Roasted Corn,Snack,Corn,Rural/Urban,Fresh corn ears roasted over an open flame (poleko makai).
+497,Pakora (Veg),Snack,Flour & Veg,Nepal,Sliced onions and vegetables fried in chickpea batter.
+498,Pakora (Paneer),Snack,Cheese,Nepal,Cottage cheese fritters.
+499,Sukuti,Snack,Dried Meat,Nepal,"Chewy, spiced dried meat served as a standalone snack."
