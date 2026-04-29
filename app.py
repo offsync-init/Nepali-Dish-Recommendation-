@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import joblib
@@ -60,7 +60,12 @@ class FoodRecommendation:
 # -------------------------
 # Create Single Instance
 # -------------------------
-model = FoodRecommendation()
+model = None
+model_init_error = None
+try:
+    model = FoodRecommendation()
+except Exception as exc:
+    model_init_error = str(exc)
 
 
 @app.get("/")
@@ -71,7 +76,16 @@ def homepage():
 
 @app.post("/recommend")
 def recommend_api(request: QueryRequest):
-    result = model.recommend_food(request.user_query, request.top_n)
+    if model is None:
+        raise HTTPException(
+            status_code=503,
+            detail=f"Model failed to initialize: {model_init_error}",
+        )
+
+    try:
+        result = model.recommend_food(request.user_query, request.top_n)
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=f"Recommendation failed: {exc}") from exc
     
     return {
         "query": request.user_query,
